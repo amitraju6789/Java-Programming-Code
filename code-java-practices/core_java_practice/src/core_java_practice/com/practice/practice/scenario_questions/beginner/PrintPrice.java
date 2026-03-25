@@ -13,7 +13,7 @@ public class PrintPrice {
 			price[i] = sc.nextInt();
 		}
 		
-		System.out.println("Price printed---");
+		System.out.println("Price Psrinted---");
 		for(int d:price) {
 			System.out.println(d);
 		}
